@@ -7,7 +7,7 @@ Infinitely curious and always learning.
 
 + Searching for projects related to Data Science & ML.
 + Participating in [IA por
-la Identidad.](https://desafio-ia-por-la-identidad.fundacionsadosky.org.ar/])
+la Identidad.](https://desafio-ia-por-la-identidad.fundacionsadosky.org.ar/]) 
 + Working with [mjvallone](https://github.com/mjvallone) in a [Companies review POC.](https://github.com/mjvallone/companies_review)
 
 
